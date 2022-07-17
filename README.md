@@ -2,7 +2,7 @@
 
 **_Sites_** 
 
-[![Temp-Plane](https://img.shields.io/website?label=The%20Temporary%20Palne&url=https%3A%2F%2Fthetemporaryplane.com)](https://thetemporaryplane.com) [![My-Site](https://img.shields.io/website?label=Trevor%20Brixey&url=https%3A%2F%2Ftrevorbrixey.com)](https://trevorbrixey.com)
+[![Temp-Plane](https://img.shields.io/website?label=The%20Temporary%20Palne&url=https%3A%2F%2Fthetemporaryplane.com)](https://thetemporaryplane.com) [![My-Site](https://img.shields.io/website?label=Trevor%20Brixey&url=https%3A%2F%2Ftrevorbrixey.com)](https://trevorbrixey.com) [![mtgcollectionapp](https://img.shields.io/website?label=mtgcollectionapp&url=https%3A%2F%2Fmtgcollection.app)](https://mtgcollection.app)
 
 ---
 
