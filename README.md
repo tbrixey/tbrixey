@@ -14,6 +14,6 @@
 
 I'm currently working as a Software Engineer Technical Lead at [Asurion](https://www.asurion.com/). I've been working as an Engineer since 2014 mostly in web application development. I have a Bachelor's in Systems Engineering and love both front-end and back-end work.
 
-- I’m currently working on [The Temporary Plane](https://thetemporaryplane.com).
+- I’m currently working on [The Temporary Plane](https://thetemporaryplane.com) and [mtgcollectionapp](https://mtgcollection.app).
 - Ask me anything.
 - Reach me on Twitter or Discord.
