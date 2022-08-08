@@ -2,7 +2,7 @@
 
 **_Sites_** 
 
-[![Temp-Plane](https://img.shields.io/website?label=The%20Temporary%20Palne&url=https%3A%2F%2Fthetemporaryplane.com)](https://thetemporaryplane.com) [![My-Site](https://img.shields.io/website?label=Trevor%20Brixey&url=https%3A%2F%2Ftrevorbrixey.com)](https://trevorbrixey.com) [![mtgcollectionapp](https://img.shields.io/website?label=mtgcollectionapp&url=https%3A%2F%2Fmtgcollection.app)](https://mtgcollection.app)
+[![My-Site](https://img.shields.io/website?label=Trevor%20Brixey&url=https%3A%2F%2Ftrevorbrixey.com)](https://trevorbrixey.com) [![mtgcollectionapp](https://img.shields.io/website?label=mtgcollectionapp&url=https%3A%2F%2Fmtgcollection.app)](https://mtgcollection.app)
 
 ---
 
@@ -14,6 +14,6 @@
 
 I'm currently working as a Software Engineer Technical Lead at [Asurion](https://www.asurion.com/). I've been working as an Engineer since 2014 mostly in web application development. I have a Bachelor's in Systems Engineering and love both front-end and back-end work.
 
-- I’m currently working on [The Temporary Plane](https://thetemporaryplane.com) and [mtgcollectionapp](https://mtgcollection.app).
+- I’m currently working on [mtgcollectionapp](https://mtgcollection.app).
 - Ask me anything.
 - Reach me on Twitter or Discord.
